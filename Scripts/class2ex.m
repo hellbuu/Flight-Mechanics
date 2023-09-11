@@ -1,5 +1,4 @@
-﻿% variáveis angulares
-
+﻿% variáveis
 syms psi theta phi g We Wb
 
 
